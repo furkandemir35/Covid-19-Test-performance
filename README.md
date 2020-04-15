@@ -1,14 +1,13 @@
 # Covid-19-Test-performance
 
 # LIBRARIES
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import cx_Oracle
-from sklearn import preprocessing
-import scipy as sp
-from sklearn.cluster import KMeans
+numpy
+pandas
+seaborn
+matplotlib.pyplot as plt
+sklearn
+statsmodel
+
 
 # Motivation:
 I would like the bring a new perspective to how the countries are managing the covid-19 pandemic.
