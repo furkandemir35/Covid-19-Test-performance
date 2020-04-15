@@ -1,5 +1,6 @@
 # Covid-19-Test-performance
-
+# Medium Blog Post
+https://medium.com/@furkandemir35/which-countries-are-the-best-performer-of-the-covid-19-testing-c9c3867c101b
 # LIBRARIES
 numpy
 pandas
